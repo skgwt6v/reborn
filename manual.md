@@ -48,6 +48,9 @@ public/                    // public以下が公開ファイルになります�
   }
 ```
 
+### 表示イメージ
+![トップバナー](https://user-images.githubusercontent.com/11353190/48825702-8caae280-edab-11e8-997d-3bb5b0610f49.jpg)
+
 
 ## Newsについて
 
@@ -71,6 +74,10 @@ public/                    // public以下が公開ファイルになります�
     "image": "./images/news/20286832_1198580023581292_4354828691837095630_o.jpg"
   }
 ```
+
+### 表示イメージ
+![News](https://user-images.githubusercontent.com/11353190/48825763-be23ae00-edab-11e8-90ea-61b13357acfd.jpg)
+
 
 ## メンバー紹介について
 ### 仕様
@@ -139,7 +146,9 @@ public/                    // public以下が公開ファイルになります�
 ```
 
 ### 表示イメージ
-![メンバー紹介のサンプル](https://user-images.githubusercontent.com/11353190/48825501-ea8afa80-edaa-11e8-8d1a-feb080618785.jpg)
+![メンバー一覧](https://user-images.githubusercontent.com/11353190/48825785-d09de780-edab-11e8-8696-1590f172cc36.jpg)
+![プロフィールのサンプル](https://user-images.githubusercontent.com/11353190/48825501-ea8afa80-edaa-11e8-8d1a-feb080618785.jpg)
+
 
 ## Aboutについて
 ### 仕様
@@ -165,6 +174,10 @@ public/                    // public以下が公開ファイルになります�
   }
 ```
 
+### 表示イメージ
+![About](https://user-images.githubusercontent.com/11353190/48825995-77828380-edac-11e8-914f-c05da35437d6.jpg)
+
+
 ## Re-bornメンバーについて
 ### 仕様
 - re-bornメンバーの紹介文
@@ -189,4 +202,7 @@ public/                    // public以下が公開ファイルになります�
     ]
   }
 ```
+
+### 表示イメージ
+![Re-bornメンバー](https://user-images.githubusercontent.com/11353190/48825843-fcb96880-edab-11e8-93b0-5cab23e14a66.jpg)
 
